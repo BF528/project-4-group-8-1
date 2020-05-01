@@ -1,11 +1,11 @@
-# Project Description
+Project Description
 
-A brief description of what this repository is for and what it contains
+Reproducing "A Single-Cell Transcriptomic Map of the Human and Mouse Pancreas Reveals Inter- and Intra-cell Population Structure".
 
-# Contributors
+Contributors
 
-List contributor names and github user names, or email addresses if desired
+Data Curator: Caroline Muriithi: Programmer: Cory Williams Analyst: Nicholas Mosca. Zeyuan Cao Biologist: TA: Dakota
 
 # Repository Contents
 
-Provide a brief description of each script/code file in this repo, what it does, and how to execute it
+The repository has script/code for the roles and a final report for the project. In addition to this, we have also uploaded figures/deliverables needed.
